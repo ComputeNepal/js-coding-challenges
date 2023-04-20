@@ -13,7 +13,7 @@ Make sure to star the repository if you find it useful. And contributions to the
 Write a program that prints the numbers from 1 to 100. But for multiples of three, print "Fizz" instead of the number and for the multiples of five, print "Buzz". For numbers which are multiples of both three and five, print "FizzBuzz". For example, your program should print:
 
 ```javascript
- 1
+1
 2
 Fizz
 4
@@ -43,3 +43,27 @@ Create a function that takes a string as an argument and returns `true` if it's 
 [Answer](./solutions/ch_2_Palindrome_Checker/answer.js)
 
 [Solution Explanation](./solutions/ch_2_Palindrome_Checker/readme.md)
+
+## Challenge 3: Fibonacci Series
+
+Write a function that takes a number `n` as input and returns the first `n` numbers in the Fibonacci sequence. The Fibonacci sequence is a series of numbers in which each number is the sum of the two preceding numbers. The first two numbers in the sequence are 0 and 1. For example, if `n` is 5, the function should return the array` [0, 1, 1, 2, 3]`.
+
+[Answer](./solutions/ch_3_Fibonacci_Series/answer.js)
+
+[Solution Explanation](./solutions/ch_3_Fibonacci_Series/readme.md)
+
+## Challenge 4: Find the Longest Word
+
+Write a function that takes a string and returns the longest word in the string. If there are two or more words that are of the same length, return the first one that appears in the string. For example, if the input string is "The quick brown fox jumps over the lazy dog", the function should return "quick".
+
+[Answer](./solutions/ch_4_Longest_Word/answer.js)
+
+[Solution Explanation](./solutions/ch_4_Longest_Word/readme.md)
+
+## Challenge 5: Reverse a String
+
+Write a function that takes a string as input and returns the string reversed. For example, if the input string is "hello", the function should return "olleh".
+
+[Answer](./solutions/ch_5_Reverse_String/answer.js)
+
+[Solution Explanation](./solutions/ch_5_Reverse_String/readme.md)
