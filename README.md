@@ -30,6 +30,14 @@ FizzBuzz
 ...
 ```
 
+[Answer](./solutions/ch_1_FizzBuzz/answer.js)
+
+[Solution Explanation](./solutions/ch_1_FizzBuzz/readme.md)
+
 ## Challenge 2: Palindrome Checker
 
 Create a function that takes a string as an argument and returns `true` if it's a palindrome and `false` if it's not. A palindrome is a word, phrase, number, or other sequence of characters that reads the same forward and backward. For example, "racecar" is a palindrome, but "hello" is not.
+
+[Answer](./solutions/ch_2_Palindrome_Checker/answer.js)
+
+[Solution Explanation](./solutions/ch_2_Palindrome_Checker/readme.md)
