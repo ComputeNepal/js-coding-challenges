@@ -99,6 +99,14 @@ Write a function that takes a number as input and returns `true` if it's a prime
 
 [Solution Explanation](./solutions/ch_7_Prime_Numbers/readme.md)
 
+## Challenge 8: Sum of Digits
+
+Write a function that takes a number as input and returns the sum of its digits. For example, if the input number is 123, the function should return 6 (1 + 2 + 3 = 6).
+
+[Answer](./solutions/ch_8_Sum_of_Digits/answer.js)
+
+[Solution Explanation](./solutions/ch_8_Sum_of_Digits/readme.md)
+
 <!-- Add new challenges before this comment -->
 
 ## License
