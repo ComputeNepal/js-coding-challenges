@@ -59,3 +59,11 @@ Write a function that takes a string and returns the longest word in the string.
 [Answer](./solutions/ch_4_Longest_Word/answer.js)
 
 [Solution Explanation](./solutions/ch_4_Longest_Word/readme.md)
+
+## Challenge 5: Reverse a String
+
+Write a function that takes a string as input and returns the string reversed. For example, if the input string is "hello", the function should return "olleh".
+
+[Answer](./solutions/ch_5_Reverse_String/answer.js)
+
+[Solution Explanation](./solutions/ch_5_Reverse_String/readme.md)
