@@ -1,5 +1,20 @@
 # JS Coding Challenges
 
+[![ComputeNepal - js-coding-challenges](https://img.shields.io/static/v1?label=ComputeNepal&message=js-coding-challenges&color=blue&logo=github)](https://github.com/ComputeNepal/js-coding-challenges "Go to GitHub repo")
+[![stars - js-coding-challenges](https://img.shields.io/github/stars/ComputeNepal/js-coding-challenges?style=social)](https://github.com/ComputeNepal/js-coding-challenges)
+[![forks - js-coding-challenges](https://img.shields.io/github/forks/ComputeNepal/js-coding-challenges?style=social)](https://github.com/ComputeNepal/js-coding-challenges)
+
+[![License](https://img.shields.io/badge/License-MIT-blue)](#license)
+[![issues - js-coding-challenges](https://img.shields.io/github/issues/ComputeNepal/js-coding-challenges)](https://github.com/ComputeNepal/js-coding-challenges/issues)
+
+[![contributions - welcome](https://img.shields.io/badge/contributions-welcome-blue)](/CONTRIBUTING.md "Go to contributions doc")
+
+<div align="center">
+
+[![View site - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge)](https://computenepal.github.io/js-coding-challenges/)
+
+</div>
+
 ![js-coding-challenges](./assets/js-coding-challenges.png)
 
 This repository contains a collection of JavaScript coding challenges that are designed to help you improve your skills and test your knowledge of the language. Each challenge is accompanied by a README file that explains the problem statement, input/output, and any additional requirements.
@@ -67,3 +82,9 @@ Write a function that takes a string as input and returns the string reversed. F
 [Answer](./solutions/ch_5_Reverse_String/answer.js)
 
 [Solution Explanation](./solutions/ch_5_Reverse_String/readme.md)
+
+## License
+
+Released under [MIT](/LICENSE) by [@ComputeNepal](https://github.com/ComputeNepal).
+
+[![Website - Visit ComputeNepal](https://img.shields.io/static/v1?label=Website&message=Visit+ComputeNepal&color=2ea44f&logo=RSS)](https://computenepal.com)
