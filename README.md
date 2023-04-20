@@ -83,6 +83,32 @@ Write a function that takes a string as input and returns the string reversed. F
 
 [Solution Explanation](./solutions/ch_5_Reverse_String/readme.md)
 
+## Challenge 6: Capitalize the First Letter of Each Word
+
+Write a function that takes a string as input and returns the string with the first letter of each word capitalized. For example, if the input string is "the quick brown fox", the function should return "The Quick Brown Fox".
+
+[Answer](./solutions/ch_6_Capitalize_First_Letter_of_Word/answer.js)
+
+[Solution Explanation](./solutions/ch_6_Capitalize_First_Letter_of_Word/readme.md)
+
+## Challenge 7: Check for Prime Numbers
+
+Write a function that takes a number as input and returns `true` if it's a prime number and `false` if it's not. A prime number is a natural number greater than 1 that is not a product of two smaller natural numbers. For example, 2, 3, 5, 7, 11, and 13 are prime numbers, but 4, 6, 8, and 9 are not.
+
+[Answer](./solutions/ch_7_Prime_Numbers/answer.js)
+
+[Solution Explanation](./solutions/ch_7_Prime_Numbers/readme.md)
+
+## Challenge 8: Sum of Digits
+
+Write a function that takes a number as input and returns the sum of its digits. For example, if the input number is 123, the function should return 6 (1 + 2 + 3 = 6).
+
+[Answer](./solutions/ch_8_Sum_of_Digits/answer.js)
+
+[Solution Explanation](./solutions/ch_8_Sum_of_Digits/readme.md)
+
+<!-- Add new challenges before this comment -->
+
 ## License
 
 Released under [MIT](/LICENSE) by [@ComputeNepal](https://github.com/ComputeNepal).
