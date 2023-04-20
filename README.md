@@ -1,5 +1,7 @@
 # JS Coding Challenges
 
+![js-coding-challenges](./assets/js-coding-challenges.png)
+
 This repository contains a collection of JavaScript coding challenges that are designed to help you improve your skills and test your knowledge of the language. Each challenge is accompanied by a README file that explains the problem statement, input/output, and any additional requirements.
 
 The answers will be available in /solutions/problem_title/answer.js while the explanation will be given in /solutions/problem_title/readme.md.
