@@ -51,3 +51,11 @@ Write a function that takes a number `n` as input and returns the first `n` numb
 [Answer](./solutions/ch_3_Fibonacci_Series/answer.js)
 
 [Solution Explanation](./solutions/ch_3_Fibonacci_Series/readme.md)
+
+## Challenge 4: Find the Longest Word
+
+Write a function that takes a string and returns the longest word in the string. If there are two or more words that are of the same length, return the first one that appears in the string. For example, if the input string is "The quick brown fox jumps over the lazy dog", the function should return "quick".
+
+[Answer](./solutions/ch_4_Longest_Word/answer.js)
+
+[Solution Explanation](./solutions/ch_4_Longest_Word/readme.md)
