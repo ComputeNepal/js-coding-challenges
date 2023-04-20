@@ -91,6 +91,14 @@ Write a function that takes a string as input and returns the string with the fi
 
 [Solution Explanation](./solutions/ch_6_Capitalize_First_Letter_of_Word/readme.md)
 
+## Challenge 7: Check for Prime Numbers
+
+Write a function that takes a number as input and returns `true` if it's a prime number and `false` if it's not. A prime number is a natural number greater than 1 that is not a product of two smaller natural numbers. For example, 2, 3, 5, 7, 11, and 13 are prime numbers, but 4, 6, 8, and 9 are not.
+
+[Answer](./solutions/ch_7_Prime_Numbers/answer.js)
+
+[Solution Explanation](./solutions/ch_7_Prime_Numbers/readme.md)
+
 <!-- Add new challenges before this comment -->
 
 ## License
