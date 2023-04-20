@@ -11,7 +11,7 @@ Make sure to star the repository if you find it useful. And contributions to the
 Write a program that prints the numbers from 1 to 100. But for multiples of three, print "Fizz" instead of the number and for the multiples of five, print "Buzz". For numbers which are multiples of both three and five, print "FizzBuzz". For example, your program should print:
 
 ```javascript
-    1
+ 1
 2
 Fizz
 4
@@ -29,3 +29,15 @@ FizzBuzz
 16
 ...
 ```
+
+[Answer](./solutions/ch_1_FizzBuzz/answer.js)
+
+[Solution Explanation](./solutions/ch_1_FizzBuzz/readme.md)
+
+## Challenge 2: Palindrome Checker
+
+Create a function that takes a string as an argument and returns `true` if it's a palindrome and `false` if it's not. A palindrome is a word, phrase, number, or other sequence of characters that reads the same forward and backward. For example, "racecar" is a palindrome, but "hello" is not.
+
+[Answer](./solutions/ch_2_Palindrome_Checker/answer.js)
+
+[Solution Explanation](./solutions/ch_2_Palindrome_Checker/readme.md)
