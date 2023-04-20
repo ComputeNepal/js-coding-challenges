@@ -83,6 +83,16 @@ Write a function that takes a string as input and returns the string reversed. F
 
 [Solution Explanation](./solutions/ch_5_Reverse_String/readme.md)
 
+## Challenge 6: Capitalize the First Letter of Each Word
+
+Write a function that takes a string as input and returns the string with the first letter of each word capitalized. For example, if the input string is "the quick brown fox", the function should return "The Quick Brown Fox".
+
+[Answer](./solutions/ch_6_Capitalize_First_Letter_of_Word/answer.js)
+
+[Solution Explanation](./solutions/ch_6_Capitalize_First_Letter_of_Word/readme.md)
+
+<!-- Add new challenges before this comment -->
+
 ## License
 
 Released under [MIT](/LICENSE) by [@ComputeNepal](https://github.com/ComputeNepal).
