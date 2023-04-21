@@ -4,6 +4,26 @@ Write a function that takes a number as input and returns its factorial. The fac
 
 Write a function called `factorial` that takes a number as its parameter and returns its factorial. If the input number is 0, the function should return 1.
 
+## Answer
+
+```javascript
+function factorial(num) {
+  // Handle the case where the input is 0
+  if (num === 0) {
+    return 1;
+  }
+
+  let result = 1;
+
+  // Multiply all numbers from 1 to num
+  for (let i = 1; i <= num; i++) {
+    result *= i;
+  }
+
+  return result;
+}
+```
+
 ## Answer Explanation
 
 The function takes a single argument num, which is the number to calculate the factorial for. Here's what the function does:
