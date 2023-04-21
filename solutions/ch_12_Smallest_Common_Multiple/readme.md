@@ -4,6 +4,24 @@ Write a function that takes two numbers as input and returns the smallest common
 
 Write a function called `smallestCommonMultiple` that takes two numbers as its parameters and returns the smallest common multiple of those numbers.
 
+## Answer
+
+```javascript
+function smallestCommonMultiple(num1, num2) {
+  // Find the larger and smaller numbers
+  const larger = Math.max(num1, num2);
+  const smaller = Math.min(num1, num2);
+
+  // Start with the larger number and check if it's divisible by the smaller number
+  let current = larger;
+  while (current % smaller !== 0) {
+    current += larger;
+  }
+
+  return current;
+}
+```
+
 ## Answer Explanation
 
 The function takes two arguments num1 and num2, which are the numbers to find the smallest common multiple for. Here's what the function does:
