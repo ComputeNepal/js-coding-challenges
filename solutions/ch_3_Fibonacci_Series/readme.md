@@ -2,6 +2,23 @@
 
 Write a function that takes a number `n` as input and returns the first `n` numbers in the Fibonacci sequence. The Fibonacci sequence is a series of numbers in which each number is the sum of the two preceding numbers. The first two numbers in the sequence are 0 and 1. For example, if `n` is 5, the function should return the array` [0, 1, 1, 2, 3]`.
 
+## Answer
+
+```javascript
+function fibonacci(n) {
+  // Create an array to store the Fibonacci sequence
+  const fib = [0, 1];
+
+  // Generate the next number in the sequence by adding the two previous numbers
+  for (let i = 2; i < n; i++) {
+    fib[i] = fib[i - 1] + fib[i - 2];
+  }
+
+  // Return the first n numbers in the sequence
+  return fib.slice(0, n);
+}
+```
+
 ## Answer Explanation
 
 The function takes a single argument,` n`, which is the number of Fibonacci numbers to generate. Here's what the function does:
