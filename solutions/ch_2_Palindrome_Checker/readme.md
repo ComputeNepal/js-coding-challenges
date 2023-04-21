@@ -2,6 +2,26 @@
 
 Create a function that takes a string as an argument and returns `true` if it's a palindrome and `false` if it's not. A palindrome is a word, phrase, number, or other sequence of characters that reads the same forward and backward. For example, "racecar" is a palindrome, but "hello" is not.
 
+## Answer
+
+```javascript
+function isPalindrome(str) {
+  // Convert the string to lowercase and remove any non-alphanumeric characters
+  const cleanStr = str.toLowerCase().replace(/[^a-z0-9]/g, "");
+
+  // Loop through the first half of the string and compare with the corresponding character in the second half
+  for (let i = 0; i < Math.floor(cleanStr.length / 2); i++) {
+    if (cleanStr[i] !== cleanStr[cleanStr.length - 1 - i]) {
+      // If the characters don't match, the string is not a palindrome
+      return false;
+    }
+  }
+
+  // If we've made it through the loop, the string is a palindrome
+  return true;
+}
+```
+
 ## Answer Explanation
 
 The function takes a single argument, str, which is the string to check for palindromicity. Here's what the function does:
