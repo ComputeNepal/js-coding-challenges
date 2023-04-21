@@ -135,6 +135,16 @@ Write a function called `secondLargest` that takes an array of numbers as its pa
 
 [Solution Explanation](./solutions/ch_11_Second_Largest_Number/readme.md)
 
+## Challenge 12: Find the Smallest Common Multiple
+
+Write a function that takes two numbers as input and returns the smallest common multiple of those numbers. The smallest common multiple is the smallest number that is divisible by both of the input numbers. For example, the smallest common multiple of 3 and 4 is 12.
+
+Write a function called `smallestCommonMultiple` that takes two numbers as its parameters and returns the smallest common multiple of those numbers.
+
+[Answer](./solutions/ch_12_Smallest_Common_Multiple/answer.js)
+
+[Solution Explanation](./solutions/ch_12_Smallest_Common_Multiple/readme.md)
+
 <!-- Add new challenges before this comment -->
 
 ## License
