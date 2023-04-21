@@ -115,6 +115,16 @@ Write a function that takes a string as input and returns the string with the fi
 
 [Solution Explanation](./solutions/ch_9_Title_Case_Sentence/readme.md)
 
+## Challenge 10: Find the Factorial of a Number
+
+Write a function that takes a number as input and returns its factorial. The factorial of a number is the product of all positive integers from 1 to the number itself. For example, the factorial of 5 is 120 (1 _ 2 _ 3 _ 4 _ 5 = 120).
+
+Write a function called `factorial` that takes a number as its parameter and returns its factorial. If the input number is 0, the function should return 1.
+
+[Answer](./solutions/ch_10_Factorial_of_Number/answer.js)
+
+[Solution Explanation](./solutions/ch_10_Factorial_of_Number/readme.md)
+
 <!-- Add new challenges before this comment -->
 
 ## License
