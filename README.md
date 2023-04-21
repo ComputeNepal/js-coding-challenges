@@ -125,6 +125,26 @@ Write a function called `factorial` that takes a number as its parameter and ret
 
 [Solution Explanation](./solutions/ch_10_Factorial_of_Number/readme.md)
 
+## Challenge 11: Find the Second Largest Number
+
+Write a function that takes an array of numbers as input and returns the second largest number in the array. For example, if the input array is [5, 10, 7, 2, 1], the function should return 7.
+
+Write a function called `secondLargest` that takes an array of numbers as its parameter and returns the second largest number in the array.
+
+[Answer](./solutions/ch_11_Second_Largest_Number/answer.js)
+
+[Solution Explanation](./solutions/ch_11_Second_Largest_Number/readme.md)
+
+## Challenge 12: Find the Smallest Common Multiple
+
+Write a function that takes two numbers as input and returns the smallest common multiple of those numbers. The smallest common multiple is the smallest number that is divisible by both of the input numbers. For example, the smallest common multiple of 3 and 4 is 12.
+
+Write a function called `smallestCommonMultiple` that takes two numbers as its parameters and returns the smallest common multiple of those numbers.
+
+[Answer](./solutions/ch_12_Smallest_Common_Multiple/answer.js)
+
+[Solution Explanation](./solutions/ch_12_Smallest_Common_Multiple/readme.md)
+
 <!-- Add new challenges before this comment -->
 
 ## License
