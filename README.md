@@ -9,12 +9,6 @@
 
 [![contributions - welcome](https://img.shields.io/badge/contributions-welcome-blue)](/CONTRIBUTING.md "Go to contributions doc")
 
-<div align="center">
-
-[![View site - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge)](https://computenepal.github.io/js-coding-challenges/)
-
-</div>
-
 ![js-coding-challenges](./assets/js-coding-challenges.png)
 
 This repository contains a collection of JavaScript coding challenges that are designed to help you improve your skills and test your knowledge of the language. Each challenge is accompanied by a README file that explains the problem statement, input/output, and any additional requirements.
