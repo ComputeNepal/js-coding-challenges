@@ -2,6 +2,28 @@
 
 Write a function that takes a string and returns the longest word in the string. If there are two or more words that are of the same length, return the first one that appears in the string. For example, if the input string is "The quick brown fox jumps over the lazy dog", the function should return "quick".
 
+## Answer
+
+```javascript
+function longestWord(str) {
+  // Split the string into an array of words
+  const words = str.split(" ");
+
+  // Initialize a variable to keep track of the longest word
+  let longest = "";
+
+  // Loop through the array of words and update the longest variable as needed
+  for (let i = 0; i < words.length; i++) {
+    if (words[i].length > longest.length) {
+      longest = words[i];
+    }
+  }
+
+  // Return the longest word
+  return longest;
+}
+```
+
 ## Answer Explanation
 
 The function takes a single argument, `str`, which is the string to search for the longest word. Here's what the function does:

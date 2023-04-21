@@ -47,15 +47,11 @@ FizzBuzz
 ...
 ```
 
-[Answer](./solutions/ch_1_FizzBuzz/answer.js)
-
 [Solution Explanation](./solutions/ch_1_FizzBuzz/readme.md)
 
 ## Challenge 2: Palindrome Checker
 
 Create a function that takes a string as an argument and returns `true` if it's a palindrome and `false` if it's not. A palindrome is a word, phrase, number, or other sequence of characters that reads the same forward and backward. For example, "racecar" is a palindrome, but "hello" is not.
-
-[Answer](./solutions/ch_2_Palindrome_Checker/answer.js)
 
 [Solution Explanation](./solutions/ch_2_Palindrome_Checker/readme.md)
 
@@ -63,15 +59,11 @@ Create a function that takes a string as an argument and returns `true` if it's 
 
 Write a function that takes a number `n` as input and returns the first `n` numbers in the Fibonacci sequence. The Fibonacci sequence is a series of numbers in which each number is the sum of the two preceding numbers. The first two numbers in the sequence are 0 and 1. For example, if `n` is 5, the function should return the array` [0, 1, 1, 2, 3]`.
 
-[Answer](./solutions/ch_3_Fibonacci_Series/answer.js)
-
 [Solution Explanation](./solutions/ch_3_Fibonacci_Series/readme.md)
 
 ## Challenge 4: Find the Longest Word
 
 Write a function that takes a string and returns the longest word in the string. If there are two or more words that are of the same length, return the first one that appears in the string. For example, if the input string is "The quick brown fox jumps over the lazy dog", the function should return "quick".
-
-[Answer](./solutions/ch_4_Longest_Word/answer.js)
 
 [Solution Explanation](./solutions/ch_4_Longest_Word/readme.md)
 
@@ -79,15 +71,11 @@ Write a function that takes a string and returns the longest word in the string.
 
 Write a function that takes a string as input and returns the string reversed. For example, if the input string is "hello", the function should return "olleh".
 
-[Answer](./solutions/ch_5_Reverse_String/answer.js)
-
 [Solution Explanation](./solutions/ch_5_Reverse_String/readme.md)
 
 ## Challenge 6: Capitalize the First Letter of Each Word
 
 Write a function that takes a string as input and returns the string with the first letter of each word capitalized. For example, if the input string is "the quick brown fox", the function should return "The Quick Brown Fox".
-
-[Answer](./solutions/ch_6_Capitalize_First_Letter_of_Word/answer.js)
 
 [Solution Explanation](./solutions/ch_6_Capitalize_First_Letter_of_Word/readme.md)
 
@@ -95,23 +83,17 @@ Write a function that takes a string as input and returns the string with the fi
 
 Write a function that takes a number as input and returns `true` if it's a prime number and `false` if it's not. A prime number is a natural number greater than 1 that is not a product of two smaller natural numbers. For example, 2, 3, 5, 7, 11, and 13 are prime numbers, but 4, 6, 8, and 9 are not.
 
-[Answer](./solutions/ch_7_Prime_Numbers/answer.js)
-
 [Solution Explanation](./solutions/ch_7_Prime_Numbers/readme.md)
 
 ## Challenge 8: Sum of Digits
 
 Write a function that takes a number as input and returns the sum of its digits. For example, if the input number is 123, the function should return 6 (1 + 2 + 3 = 6).
 
-[Answer](./solutions/ch_8_Sum_of_Digits/answer.js)
-
 [Solution Explanation](./solutions/ch_8_Sum_of_Digits/readme.md)
 
 ## Challenge 9: Title Case a Sentence
 
 Write a function that takes a string as input and returns the string with the first letter of each word capitalized. For example, if the input string is "the quick brown fox", the function should return "The Quick Brown Fox". Note that the function should capitalize the first letter of every word, even if it's a small word like "and" or "the".
-
-[Answer](./solutions/ch_9_Title_Case_Sentence/answer.js)
 
 [Solution Explanation](./solutions/ch_9_Title_Case_Sentence/readme.md)
 
@@ -121,8 +103,6 @@ Write a function that takes a number as input and returns its factorial. The fac
 
 Write a function called `factorial` that takes a number as its parameter and returns its factorial. If the input number is 0, the function should return 1.
 
-[Answer](./solutions/ch_10_Factorial_of_Number/answer.js)
-
 [Solution Explanation](./solutions/ch_10_Factorial_of_Number/readme.md)
 
 ## Challenge 11: Find the Second Largest Number
@@ -131,8 +111,6 @@ Write a function that takes an array of numbers as input and returns the second 
 
 Write a function called `secondLargest` that takes an array of numbers as its parameter and returns the second largest number in the array.
 
-[Answer](./solutions/ch_11_Second_Largest_Number/answer.js)
-
 [Solution Explanation](./solutions/ch_11_Second_Largest_Number/readme.md)
 
 ## Challenge 12: Find the Smallest Common Multiple
@@ -140,8 +118,6 @@ Write a function called `secondLargest` that takes an array of numbers as its pa
 Write a function that takes two numbers as input and returns the smallest common multiple of those numbers. The smallest common multiple is the smallest number that is divisible by both of the input numbers. For example, the smallest common multiple of 3 and 4 is 12.
 
 Write a function called `smallestCommonMultiple` that takes two numbers as its parameters and returns the smallest common multiple of those numbers.
-
-[Answer](./solutions/ch_12_Smallest_Common_Multiple/answer.js)
 
 [Solution Explanation](./solutions/ch_12_Smallest_Common_Multiple/readme.md)
 

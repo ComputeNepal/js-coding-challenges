@@ -2,6 +2,23 @@
 
 Write a function that takes a string as input and returns the string with the first letter of each word capitalized. For example, if the input string is "the quick brown fox", the function should return "The Quick Brown Fox". Note that the function should capitalize the first letter of every word, even if it's a small word like "and" or "the".
 
+## Answer
+
+```javascript
+function capitalizeWords(str) {
+  const words = str.split(" ");
+
+  // Loop over each word and capitalize its first letter
+  for (let i = 0; i < words.length; i++) {
+    const firstLetter = words[i].charAt(0).toUpperCase();
+    words[i] = firstLetter + words[i].substring(1);
+  }
+
+  // Join the capitalized words back into a single string and return it
+  return words.join(" ");
+}
+```
+
 ## Answer Explanation
 
 The function takes a single argument `str`, which is the string to capitalize. Here's what the function does:

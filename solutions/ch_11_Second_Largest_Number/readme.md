@@ -4,6 +4,30 @@ Write a function that takes an array of numbers as input and returns the second 
 
 Write a function called `secondLargest` that takes an array of numbers as its parameter and returns the second largest number in the array.
 
+## Answer
+
+```javascript
+function secondLargest(arr) {
+  let largest = arr[0]; // initialize largest variable with first element of the array
+  let secondLargest = arr[0]; // initialize secondLargest variable with first element of the array
+
+  // iterate through the array starting from the second element
+  for (let i = 1; i < arr.length; i++) {
+    // if current element is greater than the largest, update both largest and secondLargest
+    if (arr[i] > largest) {
+      secondLargest = largest;
+      largest = arr[i];
+    }
+    // if current element is not greater than largest, but is greater than secondLargest, update secondLargest
+    else if (arr[i] > secondLargest && arr[i] < largest) {
+      secondLargest = arr[i];
+    }
+  }
+
+  return secondLargest; // return the second largest element in the array
+}
+```
+
 ## Answer Explanation
 
 The function first initializes two variables `largest` and `secondLargest` with the first element of the array. It then iterates through the rest of the array and updates these variables as necessary.

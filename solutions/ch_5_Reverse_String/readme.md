@@ -2,6 +2,24 @@
 
 Write a function that takes a string as input and returns the string reversed. For example, if the input string is "hello", the function should return "olleh".
 
+## Answer
+
+```javascript
+function reverseString(str) {
+  // Split the string into an array of characters
+  const chars = str.split("");
+
+  // Reverse the array of characters
+  const reversed = chars.reverse();
+
+  // Join the array of characters back into a string
+  const result = reversed.join("");
+
+  // Return the reversed string
+  return result;
+}
+```
+
 ## Answer Explanation
 
 The function takes a single argument, `str`, which is the string to be reversed. Here's what the function does:
