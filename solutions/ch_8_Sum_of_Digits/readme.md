@@ -2,6 +2,25 @@
 
 Write a function that takes a number as input and returns the sum of its digits. For example, if the input number is 123, the function should return 6 (1 + 2 + 3 = 6).
 
+## Answer
+
+```javascript
+function sumDigits(num) {
+  let sum = 0;
+
+  // Convert the number to a string so we can loop over its digits
+  const numStr = num.toString();
+
+  // Loop over each digit in the string and add it to the sum
+  for (let i = 0; i < numStr.length; i++) {
+    sum += parseInt(numStr[i]);
+  }
+
+  // Return the final sum
+  return sum;
+}
+```
+
 ## Answer Explanation
 
 The function takes a single argument `num`, which is the number to sum the digits of. Here's what the function does:
