@@ -107,6 +107,14 @@ Write a function that takes a number as input and returns the sum of its digits.
 
 [Solution Explanation](./solutions/ch_8_Sum_of_Digits/readme.md)
 
+## Challenge 9: Title Case a Sentence
+
+Write a function that takes a string as input and returns the string with the first letter of each word capitalized. For example, if the input string is "the quick brown fox", the function should return "The Quick Brown Fox". Note that the function should capitalize the first letter of every word, even if it's a small word like "and" or "the".
+
+[Answer](./solutions/ch_9_Title_Case_Sentence/answer.js)
+
+[Solution Explanation](./solutions/ch_9_Title_Case_Sentence/readme.md)
+
 <!-- Add new challenges before this comment -->
 
 ## License
