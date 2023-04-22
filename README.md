@@ -115,6 +115,13 @@ Write a function called `smallestCommonMultiple` that takes two numbers as its p
 
 [Solution Explanation](./solutions/ch_12_Smallest_Common_Multiple/readme.md)
 
+## Challenge 13: Remove Duplicates from an Array
+Write a function that takes an array as input and returns a new array with all duplicate elements removed. For example, if the input array is [1, 2, 2, 3, 4, 4, 5], the function should return [1, 2, 3, 4, 5].
+
+Write a function called `removeDuplicates` that takes an array as its parameter and returns a new array with all duplicate elements removed.
+
+[Solution Explanation](./solutions/ch_13_Remove_Duplicate_From_Array/readme.md)
+
 <!-- Add new challenges before this comment -->
 
 ## License
