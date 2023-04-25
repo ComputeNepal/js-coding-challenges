@@ -131,6 +131,12 @@ Write a function `MaxSubArraySum` that takes an array as its parameter and retur
 
 <!-- Add new challenges before this comment -->
 
+
+## Contributors
+<a href="https://github.com/ComputeNepal/js-coding-challenges/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ComputeNepal/js-coding-challenges" />
+</a>
+
 ## License
 
 Released under [MIT](/LICENSE) by [@ComputeNepal](https://github.com/ComputeNepal).
