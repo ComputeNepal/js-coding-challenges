@@ -14,12 +14,12 @@ function MaxSubArraySum(arr)
     for (var i = 0; i < arr.length; i++)
     {
         temp_max = temp_max + arr[i]
-        if (max < temp_max)
+if (max < temp_max)
             max = temp_max
  
-        if (temp_max < 0)
+if (temp_max < 0)
             temp_max = 0
-    }
+}
     return max
 }
 ```

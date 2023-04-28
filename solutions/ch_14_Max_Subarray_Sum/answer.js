@@ -1,7 +1,7 @@
 
 function MaxSubArraySum(arr)
 {
-    var max = Number.MIN_VALUE
+  var max = Number.MIN_VALUE
     var temp_max = 0
       
     for (var i = 0; i < arr.length; i++)

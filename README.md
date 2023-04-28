@@ -129,6 +129,12 @@ Write a function `MaxSubArraySum` that takes an array as its parameter and retur
 
 [Solution Explanation](./solutions/ch_14_Max_Subarray_Sum/readme.md)
 
+## Challenge 15: Swap two numbers
+Write a function that takes two numbers as input and swaps the numbers. For example if inputs are num_1 = 5 and num_2 = 10 the function should return num_1 = 10 and num_2 = 5
+
+Write a function `swap` that takes two integers as its parameter and swaps them.
+
+[Solution Explanation](./solutions/ch_15_Swap_Numbers/readme.md)
 <!-- Add new challenges before this comment -->
 
 
