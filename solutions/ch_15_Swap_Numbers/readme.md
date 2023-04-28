@@ -17,5 +17,15 @@ function swap(num_1,num_2){
 
 This function takes `num_1` and `num_2` and swaps their values. At first, the value of `num_1` is assigned to a variable `temp` then the value of `num_2` is assigned to `num_1`. Finally the value of `temp` assigned to `num_2`. The values are swapped.
 
-
-
+Here's an example of usage of the function:
+```javascript
+swap(5,10)
+/* 
+Before swapping:
+num_1 = 5
+num_2=10
+After swapping:
+num_1 = 10
+num_2=5 
+*/ 
+```
