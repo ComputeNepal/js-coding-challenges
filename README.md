@@ -17,6 +17,11 @@ The answers will be available in /solutions/problem_title/answer.js while the ex
 
 Make sure to star the repository if you find it useful. And contributions to the repository are welcome.
 
+## Resources
+Before moving forward, if you are an complete beginner and don't know anything about programming or JavaScript, you may want to look at the following resources:
+- [Resources](./Resources/Resources.md)
+- [Roadmap](./Resources/Roadmap.md)
+
 ## Challenge 1: FizzBuzz
 
 Write a program that prints the numbers from 1 to 100. But for multiples of three, print "Fizz" instead of the number and for the multiples of five, print "Buzz". For numbers which are multiples of both three and five, print "FizzBuzz". For example, your program should print:
