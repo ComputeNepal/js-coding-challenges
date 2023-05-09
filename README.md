@@ -148,6 +148,12 @@ Write a function `swap` that takes two integers as its parameter and swaps them.
   <img src="https://contrib.rocks/image?repo=ComputeNepal/js-coding-challenges" />
 </a>
 
+## Forkers
+[![Forkers repo roster for @ComputeNepal/js-coding-challenges](https://reporoster.com/forks/ComputeNepal/js-coding-challenges)](https://github.com/ComputeNepal/js-coding-challenges/network/members)
+
+## Stargazers
+[![Stargazers repo roster for @ComputeNepal/js-coding-challenges](https://reporoster.com/stars/ComputeNepal/js-coding-challenges)](https://github.com/ComputeNepal/js-coding-challenges/stargazers)
+
 ## License
 
 Released under [MIT](/LICENSE) by [@ComputeNepal](https://github.com/ComputeNepal).
