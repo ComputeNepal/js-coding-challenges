@@ -152,7 +152,7 @@ Write a function that takes a temperature in Celsius as input and returns the eq
 
 Write a function called `celsiusToFahrenheit` that takes a temperature in Celsius as its parameter and returns the equivalent temperature in Fahrenheit.
 
-[Solution Explanation](../js-coding-challenges/solutions/ch_16_Celsius_To_Fahrenheit/readme.md)
+[Solution Explanation](./solutions/ch_16_Celsius_To_Fahrenheit/readme.md)
 
 <!-- Add new challenges before this comment -->
 
