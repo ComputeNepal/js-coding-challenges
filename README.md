@@ -18,7 +18,9 @@ The answers will be available in /solutions/problem_title/answer.js while the ex
 Make sure to star the repository if you find it useful. And contributions to the repository are welcome.
 
 ## Resources
+
 Before moving forward, if you are an complete beginner and don't know anything about programming or JavaScript, you may want to look at the following resources:
+
 - [Resources](./Resources/Resources.md)
 - [Roadmap](./Resources/Roadmap.md)
 
@@ -121,6 +123,7 @@ Write a function called `smallestCommonMultiple` that takes two numbers as its p
 [Solution Explanation](./solutions/ch_12_Smallest_Common_Multiple/readme.md)
 
 ## Challenge 13: Remove Duplicates from an Array
+
 Write a function that takes an array as input and returns a new array with all duplicate elements removed. For example, if the input array is [1, 2, 2, 3, 4, 4, 5], the function should return [1, 2, 3, 4, 5].
 
 Write a function called `removeDuplicates` that takes an array as its parameter and returns a new array with all duplicate elements removed.
@@ -128,30 +131,43 @@ Write a function called `removeDuplicates` that takes an array as its parameter 
 [Solution Explanation](./solutions/ch_13_Remove_Duplicate_From_Array/readme.md)
 
 ## Challenge 14: Find the Maximum Subarray Sum (Kadane's Algorithm)
-Write a function that takes an array as input and returns the  Maximum subarray sum. Subarrays are arrays inside another array which only contains contiguous elements.  For example, if the array is [-3, -4, 5, -1, 2, -4, 6, -1], the function should return 8 since  subarray [5, -1, 2, -4, 6] is the max sum contiguous subarray with sum 8.
 
-Write a function `MaxSubArraySum` that takes an array as its parameter and returns the maximum subarray sum. 
+Write a function that takes an array as input and returns the Maximum subarray sum. Subarrays are arrays inside another array which only contains contiguous elements. For example, if the array is [-3, -4, 5, -1, 2, -4, 6, -1], the function should return 8 since subarray [5, -1, 2, -4, 6] is the max sum contiguous subarray with sum 8.
+
+Write a function `MaxSubArraySum` that takes an array as its parameter and returns the maximum subarray sum.
 
 [Solution Explanation](./solutions/ch_14_Max_Subarray_Sum/readme.md)
 
 ## Challenge 15: Swap two numbers
+
 Write a function that takes two numbers as input and swaps the numbers. For example if inputs are num_1 = 5 and num_2 = 10 the function should return num_1 = 10 and num_2 = 5
 
 Write a function `swap` that takes two integers as its parameter and swaps them.
 
 [Solution Explanation](./solutions/ch_15_Swap_Numbers/readme.md)
+
+## Challenge 16: Convert Celsius to Fahrenheit
+
+Write a function that takes a temperature in Celsius as input and returns the equivalent temperature in Fahrenheit. The formula for converting Celsius to Fahrenheit is F = (C \* 1.8) + 32.
+
+Write a function called `celsiusToFahrenheit` that takes a temperature in Celsius as its parameter and returns the equivalent temperature in Fahrenheit.
+
+[Solution Explanation](./solutions/ch_16_Celsius_To_Fahrenheit/readme.md)
+
 <!-- Add new challenges before this comment -->
 
-
 ## Contributors
+
 <a href="https://github.com/ComputeNepal/js-coding-challenges/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=ComputeNepal/js-coding-challenges" />
 </a>
 
 ## Forkers
+
 [![Forkers repo roster for @ComputeNepal/js-coding-challenges](https://reporoster.com/forks/ComputeNepal/js-coding-challenges)](https://github.com/ComputeNepal/js-coding-challenges/network/members)
 
 ## Stargazers
+
 [![Stargazers repo roster for @ComputeNepal/js-coding-challenges](https://reporoster.com/stars/ComputeNepal/js-coding-challenges)](https://github.com/ComputeNepal/js-coding-challenges/stargazers)
 
 ## License
