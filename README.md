@@ -154,15 +154,15 @@ Write a function called `celsiusToFahrenheit` that takes a temperature in Celsiu
 
 [Solution Explanation](./solutions/ch_16_Celsius_To_Fahrenheit/readme.md)
 
-# Challenge 17: Calculate the Sum of N Natural Number.
+## Challenge 17: Calculate the Sum of N Natural Number.
 
-Write a function that takes a number as input and returns sum from 1 to N. For example, if the input is 10, the function should return 55.
+Write a function that takes a number as input and returns sum from 1 to `n`. For example, if the input is 10, the function should return 55.
 
 Write a function called `getNaturalSum` that takes a number `n` as its parameter and returns sum of natural number.
 
 [Solution Explanation](./solutions/ch_17_Sum_Of_N_Natural_Number/readme.md)
 
-# Challenge 18: Convert Decimal to Binary.
+## Challenge 18: Convert Decimal to Binary.
 
 Write a function that takes a decimal number as input and returns binary string. For example, if the input is 12, the function should return 1100.
 

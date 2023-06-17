@@ -1,6 +1,6 @@
 # Challenge 17: Calculate the Factorial of a Number.
 
-Write a function that takes a number as input and returns sum from 1 to N. For example, if the input is 10, the function should return 55.
+Write a function that takes a number as input and returns sum from 1 to `n`. For example, if the input is 10, the function should return 55.
 
 Write a function called `getNaturalSum` that takes a number `n` as its parameter and returns sum of natural number.
 
