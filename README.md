@@ -186,6 +186,22 @@ Write a function called `isValidURL` that takes a string url as `url` in its par
 
 [Solution Explanation](./solutions/ch_20_Check_String_Url/readme.md)
 
+## Challenge 21: Validate Username
+
+Write a function that checks if a given string is a valid username. A valid username should contain only alphanumeric characters and underscores, and should be between 4 and 16 characters long.
+
+Write a function called `isValidUsername` that takes a string `username` in its parameter and returns true or false.
+
+[Solution Explanation](./solutions/ch_21_Validate_Username/readme.md)
+
+## Challenge 22: Check Leap Year
+
+Write a function that checks if a given year is a leap year.
+
+Write a function called `isLeapYear` that takes `year` in its parameter and returns true or false.
+
+[Solution Explanation](./solutions/ch_22_Check_Leap_Year/readme.md)
+
 <!-- Add new challenges before this comment -->
 
 ## Contributors
