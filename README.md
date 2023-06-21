@@ -202,6 +202,22 @@ Write a function called `isLeapYear` that takes `year` in its parameter and retu
 
 [Solution Explanation](./solutions/ch_22_Check_Leap_Year/readme.md)
 
+## Challenge 23: Sum of Array Elements
+
+Write a JavaScript function to sum of all elements in an array.
+
+Write a function called `sumArray` that takes `array` in its parameter and returns sum of all array elements.
+
+[Solution Explanation](./solutions/ch_23_Sum_Of_Array_Elements/readme.md)
+
+## Challenge 24: Find Longest Word in Sentence
+
+Write a function to find the longest word in a sentence.
+
+Write a function called `findLongestWord` that takes string as argument `sentence` of type string and return longest word in sentence.
+
+[Solution Explanation](./solutions/ch_24_Find_Longest_Word_In_Sentence/readme.md)
+
 <!-- Add new challenges before this comment -->
 
 ## Contributors
