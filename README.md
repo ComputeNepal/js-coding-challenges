@@ -218,6 +218,22 @@ Write a function called `findLongestWord` that takes string as argument `sentenc
 
 [Solution Explanation](./solutions/ch_24_Find_Longest_Word_In_Sentence/readme.md)
 
+## Challenge 25: Check Empty Object
+
+Write a function to check if an object is empty or not.
+
+Write a function called `isObjEmpty` that takes an object `obj` as arguments will return true if it is empty otherwise false.
+
+[Solution Explanation](./solutions/ch_25_Check_Empty_Object/readme.md)
+
+## Challenge 26: Convert Time from 12Hrs to 24Hrs Format
+
+Write a function which can convert time from 12 hours format to 24 hours format.
+
+Write a function called `convertTo24HrsFormat` which take `time` as parameter in `HH:MMAM` format. for example, `12:10AM`.
+
+[Solution Explanation](./solutions/ch_26_Convert_Time_To_24_Format/readme.md)
+
 <!-- Add new challenges before this comment -->
 
 ## Contributors
