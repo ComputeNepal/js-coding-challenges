@@ -15,5 +15,6 @@ for (let i = 1; i <= 100; i++) {
   // Otherwise, print the number itself
   else {
     console.log(i);
+    // no match
   }
 }
